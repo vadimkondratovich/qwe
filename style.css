@@ -1,0 +1,18 @@
+a {
+    text-decoration: none;
+    font-style: italic;
+}
+div {
+    border: solid 1px #343434;
+    border-radius: 10px;
+}
+.first {
+    background: #f098fe;
+}
+.second {
+    margin: 20px;
+    box-shadow: #f098fe 5em;
+}
+div ul > li > a:hover {
+    color: green;
+}
